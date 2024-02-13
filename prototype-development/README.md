@@ -1,6 +1,6 @@
 # Carus prototype
 
-In this directory, you will find the project assingment "Carus" of Team 19 
+In this directory, you will find the project assingment "Carus" of Team 19. It is a prototype of a peer to peer carsharing app.
 
 
 ## How to start the application
